@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soy Mirsha Ramirez</h1>
+<h1 align="center">Hola 👋, Soy Mirsha Ramirez</h1>
 <h3 align="center">Cientifica de Datos mexicana</h3>
 
 - 📫 How to reach me **mirsha.l@hotmail.com**
